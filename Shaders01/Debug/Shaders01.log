@@ -1,0 +1,8 @@
+﻿  shadersLoader.cpp
+  main.cpp
+c:\users\ashine\downloads\graphics_shaders\shaders01\main.cpp(202): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol __imp____stdio_common_vsprintf_s referenced in function __vsprintf_s_l
+shadersLoader.obj : error LNK2019: unresolved external symbol __imp____acrt_iob_func referenced in function "int __cdecl loadShaders(char const *,char const *)" (?loadShaders@@YAHPBD0@Z)
+shadersLoader.obj : error LNK2019: unresolved external symbol __imp____stdio_common_vfprintf referenced in function __vfprintf_l
+C:\Users\Ashine\Downloads\graphics_shaders\Debug\Shaders01.exe : fatal error LNK1120: 3 unresolved externals

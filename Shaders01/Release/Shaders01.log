@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(193): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 91 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Shaders01.vcxproj -> C:\Users\Ola\Desktop\GRAFIKA OLA\graphics_shaders\graphics_shaders\Release\Shaders01.exe
